@@ -67,3 +67,10 @@ h5 {
   top: 13px;
   transform: rotate(-45deg);
 }
+
+#particles{
+  background: #000;
+  background-image: url('assets/img/block.jpeg');
+  background-size: cover;
+  height: 750px;
+}
