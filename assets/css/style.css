@@ -6,7 +6,7 @@
 }
 #about p{
   font-family: "Katibeh", cursive;
-  font-size: 1.44em;
+  font-size: 1.41em;
   text-shadow: 0 0px 5px #000;
 }
 @media (min-width: 500px) {
@@ -105,5 +105,8 @@ h5 {
   font-family: 'Katibeh', cursive;
 }
 .accordion-item h2{
+  font-family: 'Noto Nastaliq Urdu', serif;
+}
+.heading h1{
   font-family: 'Noto Nastaliq Urdu', serif;
 }
