@@ -4,5 +4,5 @@ document.addEventListener('DOMContentLoaded', function () {
     lineColor: '#412529'
   });
   var intro = document.getElementById('intro');
-  intro.style.marginTop = - intro.offsetHeight  + 'px';
+  intro.style.marginTop = - intro.offsetHeight *4 + 'px';
 }, false);

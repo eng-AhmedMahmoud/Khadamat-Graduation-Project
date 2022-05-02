@@ -44,6 +44,8 @@
 h5 {
   list-style: none;
   text-align: start;
+  font-family: "Katibeh",cursive;
+  line-height: 1.5em;
 }
 .block-heading ul li {
   position: relative;
